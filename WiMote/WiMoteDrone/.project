@@ -14,4 +14,10 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<variableList>
+		<variable>
+			<name>bluecove</name>
+			<value>file:/Users/farrukh/Desktop/bluecove-2.1.0.jar</value>
+		</variable>
+	</variableList>
 </projectDescription>
