@@ -1,0 +1,1 @@
+Remote control features include mouse, keyboard control and some other features.
